@@ -1,0 +1,11 @@
+.App{
+    height:100%;
+    width:100%;
+    padding:0;
+    background-color: #363636;
+}
+
+body{
+    margin:0;
+    height:100%;
+}

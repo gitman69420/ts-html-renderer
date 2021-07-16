@@ -1,3 +1,4 @@
+import './App.css';
 import { EditorContainer } from "./Components/EditorContainer";
 
 function App() {
