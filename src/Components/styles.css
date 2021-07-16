@@ -1,9 +1,25 @@
+/* FOR A BUTTON TO BE ABLE TO CLOSE TABS */
 .tab-close-button{
     background-color:transparent;
     border:0;
-    color:lightgreen;
+    color:red;
 }
 
 .tab-close-button:hover{
     background-color: black;
+}
+
+/* FOR TAB */
+.tab-file-name{
+    color:white;
+    font:roboto;
+    margin:0;
+    padding:0 1rem;
+    pointer-events:none;
+    font-weight: 100;
+}
+
+.file{
+    width:calc(100% - 2px);
+    background-color: #3681ba;
 }

@@ -1,0 +1,22 @@
+.file-pane-body{
+    background-color :#616161;
+    border-width:3px 0 3px 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+.file-pane-header{
+    height:1.5rem;
+    background-color: #363636;
+    color: white;
+    display:flex;
+    align-items: center;
+}
+
+.files-container{
+    background-color:white;
+    display:grid;
+    grid-template-columns: repeat();
+    gap:2px;
+    padding:2px 0;
+}
