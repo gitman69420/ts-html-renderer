@@ -1,6 +1,6 @@
 # HTML Renderer (Codepen clone) - with File Manager (made with React - Typescript)
 
-Hosted on: https://ts-html-renderer.netlify.app/
+Hosted on: https://gitman69420.github.io/ts-html-renderer/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using the Typescript template.
 
